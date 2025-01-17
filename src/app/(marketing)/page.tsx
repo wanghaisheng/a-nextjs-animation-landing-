@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { Container, Icons, Wrapper } from "@/components";
 import { BorderBeam } from "@/components/ui/border-beam";
 import { Button } from "@/components/ui/button";
